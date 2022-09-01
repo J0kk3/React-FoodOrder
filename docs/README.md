@@ -1,2 +1,2 @@
-# Web-Dev-Template
-A template repo for web development
+# React food order
+A repo for practicing react.js
