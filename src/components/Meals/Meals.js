@@ -1,5 +1,5 @@
 import React from 'react';
-
+//styles
 import MealsSummary from './MealsSummary';
 import AvailableMeals from './AvailableMeals';
 
